@@ -37,7 +37,7 @@ nav {
     height: 60px;
 }
 
-.container {
+.div1{
     display: flex;
     width: 80%;
     max-width: 900px;
@@ -78,7 +78,7 @@ article section {
     align-items: center;
 }
 
-.bottom-section {
+.section {
     background-color: #1ba778; 
     height: 100px; 
     border-radius: 15px;
